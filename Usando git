@@ -1,0 +1,21 @@
+comandos 
+mkdir # cria um diretorio
+git config --global user.name "#username"
+git config --global user.email "#email"
+
+git clone #ssh do clone
+
+entrar na pasta nova
+
+ls #lista o que tem dentro da pagina
+
+touch oi.py #cria algum script
+
+git status # mostra os estatus de att do git
+
+git add # adiciona um arquivo no git
+
+git commit -m "#mensagem" filename
+
+git push -u origin master # upa os arquivos para a git
+
